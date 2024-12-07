@@ -18,3 +18,21 @@ if __name__ == '__main__':
         print("Weird")
     elif n % 2 == 0 and n > 20:
         print("Not Weird")
+
+
+# all Test Case Passed
+# Test case 0
+
+# Test case 1
+
+# Test case 2
+
+# Test case 3
+
+# Test case 4
+
+# Test case 5
+
+# Test case 6
+
+# Test case 7
