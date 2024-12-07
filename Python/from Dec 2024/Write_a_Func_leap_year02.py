@@ -15,9 +15,9 @@ print(is_leap(year))
 
 # 2/6 test cases failed :(
 
-# Test case 1
+# Test case 1 X
 
-# Test case 5
+# Test case 5 X
 
 # Test case 0
 
