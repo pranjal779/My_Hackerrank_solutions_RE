@@ -10,3 +10,4 @@ if __name__ == '__main__':
         avgScore_of_student = sum(student_marks[query_name])/len(student_marks[query_name])
         print(f"{avgScore_of_student:.2f}")
     
+# finding the percentage
