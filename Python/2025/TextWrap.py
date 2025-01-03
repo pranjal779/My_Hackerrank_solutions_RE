@@ -85,3 +85,69 @@ if __name__ == '__main__':
 # very
 # long
 # string.
+
+# test case 1:
+# Compiler Message
+# Success
+# Input (stdin)
+# bscnksbcjscksbcjksbckjdscsbdcbsdkjbcsdjcbsdjkcbsdkjbckjdsbjksd
+# 9
+# Expected Output
+# bscnksbcj
+# scksbcjks
+# bckjdscsb
+# dcbsdkjbc
+# sdjcbsdjk
+# cbsdkjbck
+# jdsbjksd
+
+# # test case 2:
+# Compiler Message
+# Success
+# Input (stdin)
+# bscnksbcjscksbcjksbckjdscsbdcbsdkjbcsdjcbsdjkcbsdkjbckjdsbjksd
+# 20
+# Expected Output
+# bscnksbcjscksbcjksbc
+# kjdscsbdcbsdkjbcsdjc
+# bsdjkcbsdkjbckjdsbjk
+# sd
+
+# # test case 3:
+# Compiler Message
+# Success
+# Input (stdin)
+# bscnksbcjscksbcjksbckjdscsbdcbsdkjbcsdjcbsdjkcbsdkjbckjdsbjksd
+# 11
+# Expected Output
+# bscnksbcjsc
+# ksbcjksbckj
+# dscsbdcbsdk
+# jbcsdjcbsdj
+# kcbsdkjbckj
+# dsbjksd
+
+# # test case 4:
+# Compiler Message
+# Success
+# Input (stdin)
+# bscnksbcjscksbcjksbckjdscsbdcbsdkjbcsdjcbsdjkcbsdkjbckjdsbjksd
+# 15
+# Expected Output
+# bscnksbcjscksbc
+# jksbckjdscsbdcb
+# sdkjbcsdjcbsdjk
+# cbsdkjbckjdsbjk
+# sd
+
+# # test case 5:
+# Compiler Message
+# Success
+# Input (stdin)
+# bscnksbcjscksbcjksbckjdscsbdcbsdkjbcsdjcbsdjkcbsdkjbckjd
+# 15
+# Expected Output
+# bscnksbcjscksbc
+# jksbckjdscsbdcb
+# sdkjbcsdjcbsdjk
+# cbsdkjbckjd
